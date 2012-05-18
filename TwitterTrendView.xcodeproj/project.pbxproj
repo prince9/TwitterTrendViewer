@@ -22,14 +22,14 @@
 		661BDF1C1566FA3C00797389 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		661BDF1E1566FA3C00797389 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		661BDF201566FA3C00797389 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		661BDF241566FA3C00797389 /* TwitterTrendView-Info.plist */ = {isa = PBXFileReference; path = "TwitterTrendView-Info.plist"; sourceTree = "<group>"; };
+		661BDF241566FA3C00797389 /* TwitterTrendView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TwitterTrendView-Info.plist"; sourceTree = "<group>"; };
 		661BDF261566FA3C00797389 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		661BDF281566FA3C00797389 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		661BDF2A1566FA3C00797389 /* TwitterTrendView-Prefix.pch */ = {isa = PBXFileReference; path = "TwitterTrendView-Prefix.pch"; sourceTree = "<group>"; };
-		661BDF2B1566FA3C00797389 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		661BDF2A1566FA3C00797389 /* TwitterTrendView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TwitterTrendView-Prefix.pch"; sourceTree = "<group>"; };
+		661BDF2B1566FA3C00797389 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		661BDF2C1566FA3C00797389 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		661BDF2F1566FA3C00797389 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		661BDF311566FA3C00797389 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		661BDF311566FA3C00797389 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		661BDF321566FA3C00797389 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
